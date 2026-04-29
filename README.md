@@ -1,6 +1,4 @@
-# Awesome B2B SaaS Subreddits
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome B2B SaaS Subreddits [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 The communities where B2B SaaS buyers compare tools, challenge weak positioning, and reveal the language they use when a workflow breaks. Curated for marketers, founders, and growth teams who want to use Reddit as a research channel, not a launch board.
 
@@ -15,20 +13,20 @@ The communities where B2B SaaS buyers compare tools, challenge weak positioning,
 - [Who this list is for](#who-this-list-is-for)
 - [How we picked these eight](#how-we-picked-these-eight)
 - [The shortlist](#the-shortlist)
-  1. [r/Entrepreneur](#1-rentrepreneur)
-  2. [r/startups](#2-rstartups)
-  3. [r/marketing](#3-rmarketing)
-  4. [r/smallbusiness](#4-rsmallbusiness)
-  5. [r/webdev](#5-rwebdev)
-  6. [r/productivity](#6-rproductivity)
-  7. [r/sidehustle](#7-rsidehustle)
-  8. [r/business](#8-rbusiness)
+  - [r/Entrepreneur](#rentrepreneur)
+  - [r/startups](#rstartups)
+  - [r/marketing](#rmarketing)
+  - [r/smallbusiness](#rsmallbusiness)
+  - [r/webdev](#rwebdev)
+  - [r/productivity](#rproductivity)
+  - [r/sidehustle](#rsidehustle)
+  - [r/business](#rbusiness)
 - [Posting playbook for B2B SaaS](#posting-playbook-for-b2b-saas)
 - [FAQ](#faq)
 - [Subreddits we considered and didn't include](#subreddits-we-considered-and-didnt-include)
 - [Further reading](#further-reading)
 - [Related lists](#related-lists)
-- [License](#license)
+- [Live version with brand-mention data](#live-version-with-brand-mention-data)
 
 ---
 
@@ -57,9 +55,9 @@ Order is by editorial fit, not subscriber count or activity score. The subs we'd
 
 ## The shortlist
 
-### 1. r/Entrepreneur
+### r/Entrepreneur
 
-**~5M subscribers · [reddit.com/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)**
+~5M subscribers · [reddit.com/r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
 
 The largest founder-adjacent community on Reddit. Skews aspirational (solopreneurs, side-hustlers, dropshippers, coaches), but the operator slice is large enough in absolute terms to matter, and the comment threads on tool-recommendation posts are one of the most reliable surfaces on Reddit for buyer-language capture.
 
@@ -69,9 +67,9 @@ The largest founder-adjacent community on Reddit. Skews aspirational (solopreneu
 
 ---
 
-### 2. r/startups
+### r/startups
 
-**~1.5–2M subscribers · [reddit.com/r/startups](https://www.reddit.com/r/startups/)**
+~1.5–2M subscribers · [reddit.com/r/startups](https://www.reddit.com/r/startups/)
 
 The highest-intent founder audience among the eight, and the most brutally moderated. If r/Entrepreneur is the entry point, r/startups is where people who've actually shipped go to compare notes on fundraising, hiring, and architecture. It's also the sub most likely to retroactively ban you for a post that hit the front page weeks earlier.
 
@@ -81,9 +79,9 @@ The highest-intent founder audience among the eight, and the most brutally moder
 
 ---
 
-### 3. r/marketing
+### r/marketing
 
-**~1.9M subscribers · [reddit.com/r/marketing](https://www.reddit.com/r/marketing/)**
+~1.9M subscribers · [reddit.com/r/marketing](https://www.reddit.com/r/marketing/)
 
 The closest thing on Reddit to a peer review for marketers. The audience is the people who'd evaluate your tool: in-house marketers, agency leads, growth practitioners with strong opinions on attribution and channel mix. Useful and dangerous in roughly equal measure.
 
@@ -93,9 +91,9 @@ The closest thing on Reddit to a peer review for marketers. The audience is the 
 
 ---
 
-### 4. r/smallbusiness
+### r/smallbusiness
 
-**~2M subscribers · [reddit.com/r/smallbusiness](https://www.reddit.com/r/smallbusiness/)**
+~2M subscribers · [reddit.com/r/smallbusiness](https://www.reddit.com/r/smallbusiness/)
 
 The highest-trust community of the eight, and the one most B2B SaaS marketers should approach with caution. The audience is real owners with real money (restaurants, retail, contractors, services), but their software ACV tolerance is mostly sub-$100/month and their cultural baseline is allergic to startup-speak.
 
@@ -105,9 +103,9 @@ The highest-trust community of the eight, and the one most B2B SaaS marketers sh
 
 ---
 
-### 5. r/webdev
+### r/webdev
 
-**~2.5M subscribers · [reddit.com/r/webdev](https://www.reddit.com/r/webdev/)**
+~2.5M subscribers · [reddit.com/r/webdev](https://www.reddit.com/r/webdev/)
 
 The single best subreddit on this list for B2B SaaS, but only if you're a dev-tool SaaS. APIs, observability, deployment, BaaS, headless CMS, dev experience, framework-adjacents. For everyone else, the audience is wrong.
 
@@ -117,9 +115,9 @@ The single best subreddit on this list for B2B SaaS, but only if you're a dev-to
 
 ---
 
-### 6. r/productivity
+### r/productivity
 
-**~3.7–4.1M subscribers · [reddit.com/r/productivity](https://www.reddit.com/r/productivity/)**
+~3.7–4.1M subscribers · [reddit.com/r/productivity](https://www.reddit.com/r/productivity/)
 
 A productivity-systems sub, not a productivity-apps sub, a distinction that matters. The mods have explicitly pushed app discussion to r/productivityapps, leaving this sub for methodology, deep work, time-blocking, and frameworks. Worth the long-game investment for productivity-adjacent SaaS, useless for everyone else.
 
@@ -129,9 +127,9 @@ A productivity-systems sub, not a productivity-apps sub, a distinction that matt
 
 ---
 
-### 7. r/sidehustle
+### r/sidehustle
 
-**~3M subscribers · [reddit.com/r/sidehustle](https://www.reddit.com/r/sidehustle/)**
+~3M subscribers · [reddit.com/r/sidehustle](https://www.reddit.com/r/sidehustle/)
 
 Worth including for the narrow case of SaaS that powers solopreneur side businesses, and worth being honest about: for most B2B SaaS this audience is wrong. The members are consumers earning side income (Etsy resellers, dog walkers, freelance designers, vintage flippers), not businesses with software budgets.
 
@@ -141,9 +139,9 @@ Worth including for the narrow case of SaaS that powers solopreneur side busines
 
 ---
 
-### 8. r/business
+### r/business
 
-**~2.5M subscribers · [reddit.com/r/business](https://www.reddit.com/r/business/)**
+~2.5M subscribers · [reddit.com/r/business](https://www.reddit.com/r/business/)
 
 Included for completeness because every "best subreddits for B2B" list mentions it. We'd skip it for almost all B2B SaaS, and we'll explain why.
 
@@ -159,7 +157,7 @@ The communities above are individually different, but the operating loop across 
 
 **Comment before you post.** This is the single most-cited rule and the most-ignored. Karmic Reddit Agency's [Colin Belyea](https://www.demandcurve.com/newsletters/growth-newsletter-312) describes a four-stage "Karma Ladder" that takes about 90 days to climb to promotional credibility. The shorter version: spend two weeks answering questions in your area of expertise, with no link in your profile and no product mention in any reply. Then ask a question, still no product mention. Then, only then, write something where you might mention what you're working on, and only with explicit disclosure.
 
-**Disclosure is a tactic, not a tax.** [Maddie Wang at OGTool](https://ogtool.com/blog/best-subreddits-saas-founders-2025-ogtool-guide) recommends including "Full disclosure: I'm the founder of [Company]" in every comment that touches your product. Hidden ownership is the only thing more reliably banned than open promotion. Disclosed founders get downvoted some of the time and upvoted some of the time; undisclosed founders get banned all of the time and remembered.
+**Disclosure is a tactic, not a tax.** [Maddie Wang at OGTool](https://ogtool.com/blog/best-subreddits-saas-founders-2025-ogtool-guide) recommends including "Full disclosure: I'm the founder of \[Company\]" in every comment that touches your product. Hidden ownership is the only thing more reliably banned than open promotion. Disclosed founders get downvoted some of the time and upvoted some of the time; undisclosed founders get banned all of the time and remembered.
 
 **Treat Reddit as a research surface first.** [Amanda Natividad at SparkToro](https://sparktoro.com/blog/) is right that it's possibly the single best public source for understanding your buyer's authentic language, and most marketers under-use it as a research channel because they're too focused on extracting leads. The pattern-mining you do reading buyer threads (repeated objections, evaluation triggers, adjacent-tool mentions, the language they actually use to describe a broken workflow) is the highest-ROI use of the channel. Use that input to fix your positioning, your sales decks, and your AI-search content. Distribution is secondary.
 
@@ -175,32 +173,25 @@ The honest summary: Reddit works for B2B SaaS, but the timeline is 3–9 months 
 
 ## FAQ
 
-### Why isn't r/SaaS on this list?
-
+### Why isn't r/SaaS on this list
 Honest answer: it's a defensible omission, not an oversight. r/SaaS is the canonical sub on every other "best B2B SaaS subreddits" list, and many founders do report success there, but its signal-to-noise has degraded as the sub has been overrun by founder-to-founder promo. Most threads now are SaaS founders pitching SaaS founders, which is a small market and not where most SaaS *buyers* live. We'd rather point you at the audience-side subs (r/Entrepreneur, r/marketing, r/smallbusiness, r/webdev) where actual buyers post their problems. r/SaaS is worth your time if you sell tools that other SaaS founders buy (analytics, billing, dev tools); it's lower-priority if you sell to non-tech operators.
 
-### How many subreddits should a B2B SaaS marketer actually post in?
-
+### How many subreddits should a B2B SaaS marketer actually post in
 Two to three, deeply, beats eight, shallowly. The 9:1 ratio (90% non-promotional contribution to 10% anything-self-referential) is widely cited as the informal threshold across Reddit. You can't sustain that ratio across eight subs without becoming a full-time Redditor. Pick the two with the strongest fit for your specific product, and lurk-and-comment the rest as a research surface.
 
-### What's the realistic timeline before Reddit produces leads?
-
+### What's the realistic timeline before Reddit produces leads
 Three to nine months from first comment to first measurable lead. [Maddie Wang at OGTool](https://ogtool.com/blog/best-subreddits-saas-founders-2025-ogtool-guide) puts the floor at 60–90 days of authentic participation before promotional posts work, with measurable lead flow at 4–6 months. The Karmic team's framework targets 90 days to climb to "promotional credibility." If your runway is shorter than three months, Reddit isn't your channel. Reddit Ads or a different platform will produce faster-than-realistic results without the same unit economics.
 
-### Can I post my SaaS launch on Reddit without getting banned?
-
+### Can I post my SaaS launch on Reddit without getting banned
 Yes, in three places, with caveats. r/SideProject (not on this list because it's launch-focused, not buyer-focused) and r/webdev's Showoff Saturday are the cleanest launch venues. r/Entrepreneur tolerates a launch post once you have 10 in-sub comment karma, framed as a peer-lesson with hard numbers, not "check out my new product." r/startups will likely remove it regardless of how well it's framed. Everywhere else, lead with the workflow problem your product solves and let the product mention come up in comments.
 
-### Does Reddit work for enterprise B2B SaaS?
-
+### Does Reddit work for enterprise B2B SaaS
 For research, yes. For lead generation, mostly no. Enterprise buyers don't make six-figure ACV decisions in subreddit threads, but their teams research vendors there before they shortlist, and your decision-makers' direct reports often surface candidate tools from Reddit-influenced searches. The right enterprise use of Reddit is competitive intelligence, buyer-language capture, and ChatGPT/Google AIO citation positioning, not direct outreach.
 
-### Should I run Reddit Ads alongside organic?
-
+### Should I run Reddit Ads alongside organic
 After you have organic traction, yes. Before, probably not. Multiple founder write-ups suggest paid Reddit underperforms for early-stage B2B SaaS. The cost-per-click is competitive with LinkedIn but the conversion intent is weaker, and the audience targeting tools are blunter. The exception is Promoted Posts amplifying organic content that's already performing. That pattern reportedly produces some of the best Reddit Ads ROI of any format.
 
-### What's the difference between r/Entrepreneur and r/startups for B2B SaaS marketers?
-
+### What's the difference between r/Entrepreneur and r/startups for B2B SaaS marketers
 r/Entrepreneur is broader, larger, more forgiving on moderation, and more aspirational in audience. r/startups is narrower, smaller, brutally moderated, and closer to actual operators. If you're trying to capture buyer language and run pattern analysis at scale, r/Entrepreneur. If you're trying to be in the room where Series A founders compare notes on the stack they actually use, r/startups (and accept that you'll spend more on the relationship than you earn from it for a long time).
 
 ---
@@ -218,21 +209,21 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Further reading
 
-- [Indie Hackers: 500 banned posts analyzed](https://www.indiehackers.com/post/analyzed-500-reddit-posts-that-got-banned-73-failed-for-the-same-reason-and-it-s-not-what-you-think-Y5JloVysPICuN2rOliIT). Source for the per-sub removal-rate numbers in this list.
-- [Demand Curve: Karmic's Karma Ladder framework](https://www.demandcurve.com/newsletters/growth-newsletter-312). The cleanest articulation of how to earn promotional credibility on Reddit.
-- [Foundation Inc: Reddit vs B2B SaaS keyword analysis](https://foundationinc.co/lab/reddit-b2b-saas). The 8,566-keyword study showing Reddit outranking vendors on category SERPs.
-- [Foundation Inc: How SaaS Companies Use Reddit](https://foundationinc.co/lab/saas-success-on-reddit). Salesforce, Twilio, Stripe, Ahrefs case studies.
+- [Indie Hackers: 500 banned posts analyzed](https://www.indiehackers.com/post/analyzed-500-reddit-posts-that-got-banned-73-failed-for-the-same-reason-and-it-s-not-what-you-think-Y5JloVysPICuN2rOliIT) - Source for the per-sub removal-rate numbers in this list.
+- [Demand Curve: Karmic's Karma Ladder framework](https://www.demandcurve.com/newsletters/growth-newsletter-312) - The cleanest articulation of how to earn promotional credibility on Reddit.
+- [Foundation Inc: Reddit vs B2B SaaS keyword analysis](https://foundationinc.co/lab/reddit-b2b-saas) - The 8,566-keyword study showing Reddit outranking vendors on category SERPs.
+- [Foundation Inc: How SaaS Companies Use Reddit](https://foundationinc.co/lab/saas-success-on-reddit) - Salesforce, Twilio, Stripe, Ahrefs case studies.
 - [Jonathan Rintala: Reddit Growth Guide for B2B SaaS](https://jonathanrintala.com/blog/reddit-growth-hacking-guide-b2b-saas/). 200K weekly impressions, four-format taxonomy.
-- [Igor Krasnik: Banned from r/startups after #1 post](https://www.indiehackers.com/post/my-post-got-to-the-top-1-of-the-month-in-1-day-at-r-startups-1-1m-subs-but-they-ve-banned-me-0dd2b418ba). The most-cited cautionary tale.
+- [Igor Krasnik: Banned from r/startups after #1 post](https://www.indiehackers.com/post/my-post-got-to-the-top-1-of-the-month-in-1-day-at-r-startups-1-1m-subs-but-they-ve-banned-me-0dd2b418ba) - The most-cited cautionary tale.
 
 ---
 
 ## Related lists
 
-- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits): index of all our curated lists.
-- [Awesome Developer Tools Subreddits](https://github.com/soarsh/awesome-developer-tools-subreddits): for dev-tool SaaS specifically.
-- [Awesome Productivity Subreddits](https://github.com/soarsh/awesome-productivity-subreddits): for productivity-adjacent SaaS.
-- [Awesome Fintech Subreddits](https://github.com/soarsh/awesome-fintech-subreddits): for fintech and payments.
+- [Awesome Subreddits hub](https://github.com/soarsh/awesome-subreddits) - Index of all our curated lists.
+- [Awesome Developer Tools Subreddits](https://github.com/soarsh/awesome-developer-tools-subreddits) - For dev-tool SaaS specifically.
+- [Awesome Productivity Subreddits](https://github.com/soarsh/awesome-productivity-subreddits) - For productivity-adjacent SaaS.
+- [Awesome Fintech Subreddits](https://github.com/soarsh/awesome-fintech-subreddits) - For fintech and payments.
 
 ## Live version with brand-mention data
 
@@ -244,6 +235,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
-
-Content under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Copy, adapt, and republish freely. Attribution appreciated, not required.
