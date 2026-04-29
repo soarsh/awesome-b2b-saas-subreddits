@@ -1,5 +1,7 @@
 # Awesome B2B SaaS Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where B2B SaaS buyers compare tools, challenge weak positioning, and reveal the language they use when a workflow breaks. Curated for marketers, founders, and growth teams who want to use Reddit as a research channel, not a launch board.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
