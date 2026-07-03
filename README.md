@@ -102,6 +102,7 @@ The highest-trust community of the eight, and the one most B2B SaaS marketers sh
 **How to post here without getting removed.** Self-promotion is restricted to the weekly "Promote Your Business" thread, rarely high-traffic. Mods are active and visible, often commenting with explicit removal reasons. Stronger than mods is the community's immune response: posts that smell of "service in disguise as advice" get downvoted before mods need to act. Tech-startup vocabulary (TAM, ARR, NRR, runway) signals "wrong sub" and torches credibility on contact. The right posture is peer participation for months, answering operational questions in your area of expertise, before any product mention. If your tool costs more than $200/month, this sub probably isn't your channel; consider Reddit Ads instead.
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform that helps with lead capture, segmentation, campaigns, and customer journeys.
 
 ### r/webdev
 
@@ -234,4 +235,3 @@ The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite a
 ## Contributing
 
 Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
-
